@@ -1,0 +1,6 @@
+import printing_functions26_1
+
+from printing_functions26_1 import imprimir_modelos
+from printing_functions26_1 import imprimir_modelos as im
+import printing_functions26_1 as pf
+from printing_functions26_1 import *
