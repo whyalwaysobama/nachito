@@ -1,5 +1,5 @@
-def hacer_camiseta(tamaño, mensaje):
-    print(f"Camiseta tamaño {tamaño} con el mensaje: {mensaje}")
-
-hacer_camiseta("M", "Hola mundo")
-hacer_camiseta(tamaño="L", mensaje="Python")
+def hacer_camiseta():
+    tamaño = input("Tamaño de la remera: ")
+    mensaje = input("Mensaje de la remera: ")
+    print(f"Remera tamaño {tamaño} con el mensaje: {mensaje}")
+ 
