@@ -1,6 +1,6 @@
 from pathlib import Path
 
-ruta = Path("pi.txt")
+ruta = Path("C:\\Users\\admin\\Documents\\GitHub\\nachito\\pythondecero\\pi.txt")
 contenido = ruta.read_text()
 
 cumple = input("Ingresá tu cumpleaños (ddmmaa): ")
